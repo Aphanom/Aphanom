@@ -29,11 +29,11 @@ I build robust backend systems, cross-platform applications, and integrate Large
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Aphanom&show_icons=true&theme=radical&include_all_commits=true" alt="Vladislav's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aphanom&theme=radical" alt="Vladislav's GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Let's Connect
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/vladislav-korotkov-875413410/])
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/@behelt)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vladislav-korotkov-875413410/)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/behelt)
